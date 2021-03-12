@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Memorize } from './components/06-memos/Memorize';
+import { Padre } from './components/07-tarea-memo/Padre';
 
 ReactDOM.render(
-    <Memorize />,
+    <Padre />,
     document.getElementById('root')
 );
